@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/local/include",
-                "/opt/homebrew/Cellar/**"
+                "/opt/homebrew/Cellar/**",
+                "/usr/X11/include"
             ],
             "defines": [],
             "macFrameworkPath": [
